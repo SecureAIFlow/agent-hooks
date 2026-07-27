@@ -2,8 +2,8 @@
 
 Stops secrets from reaching an AI IDE's model — the typed prompt, agent shell
 commands, file contents read as context, and agent tool calls — and records
-token usage per integration. Supported: **Cursor, Antigravity, GitHub Copilot,
-and Codex** — one shared core, one adapter per IDE.
+token usage per integration. Supported: **Cursor EDE, Antigravity IDE, GitHub Copilot CLI,
+and Codex CLI** — one shared core, one adapter per IDE.
 
 ## Install (one line)
 
